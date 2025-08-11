@@ -1,0 +1,23 @@
+.navbar {
+    /* background-color: transparent!important; */
+    background: white;
+    width: 100%;
+    position: fixed!important;
+    top: 0px!important;
+    z-index: 999;
+}
+
+.navbar a {
+    color: black!important;
+    font-weight: 400;
+}
+
+@media(min-width: 992px){
+    .navbar .dropdown .dropdown-menu{
+        display: none;
+    }
+
+    .navbar .dropdown:hover .dropdown-menu{
+        display: block;
+    }
+}

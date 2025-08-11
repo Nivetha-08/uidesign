@@ -1,0 +1,13 @@
+#hover-img .img-container{
+   overflow: hidden;
+}
+#hover-img div:has(img){
+    overflow: hidden;
+}
+#hover-img img{
+    transition: transform 0.3s ease;
+}
+#hover-img img:hover{
+    transform: scale(1.2);
+} 
+

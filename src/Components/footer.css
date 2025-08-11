@@ -1,0 +1,21 @@
+.icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;        
+  height: 30px;       
+  border-radius: 50%; 
+  font-size: 20px;    
+  color: white;       
+  margin-right: 10px; 
+  cursor: pointer;
+}
+
+ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+ul li a:hover{
+  color: blue;
+}
