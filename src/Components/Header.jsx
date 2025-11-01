@@ -13,18 +13,18 @@ const Header = () => {
           
             <div className='col-sm-12 col-lg-4 py-2 text-center'>
               <a href="#" className='h6' style={{ textDecoration: "underline" }}>College</a> <br />
-              <span>XXXXXXXXXX Campus</span> <br />
-              <span>YYYYYYYYYYYYY (YYY)</span> <br />
-              <span>ZZZZZZZZZZZZZZZZZZZZZZZZZ Road</span> <br />
-              <span>XXXX (TK), Salem - 636 001. TN. INDIA</span> <br />
-              <span className='text-primary'>Affiliated to the TN. Dr.M.G.R. Medical University</span>
+              <span>KAIRA Campus</span> <br />
+              <span>PO BOX 19720</span> <br />
+              <span>Durham</span> <br />
+              <span>North Carolina</span> <br />
+              <span className='text-primary'>Affiliated to the DUKE Medical University</span>
             </div>
 
             <div className='col-sm-12 col-lg-4 py-2 text-center'>
               <a href="#" className='h6'>Admission</a> <br />
-              <span>XXX College of Technology</span> <br />
-              <span>XXX YYY ZZZ (XYZ)</span> <br />
-              <span>Salem 636001. TN. INDIA</span> <br />
+              <span>KAIRA Campus</span> <br />
+              <span>PO BOX 19720</span> <br />
+              <span>North Carolina</span> <br />
               <p></p>
               <a href="#" className='text-primary' style={{ textDecoration: "none" }}>
                 12345 67890 | 12345 67890 | 12345 67890

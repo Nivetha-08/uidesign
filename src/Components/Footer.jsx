@@ -44,18 +44,18 @@ const Footer = () => {
                 <h5>Address</h5>
                 <h5>COLLEGE & HOSPITAL :</h5>
                 <p>
-                    xxx Campus,<br />
-                    yyy (xyz),<br />
-                    zzz Road,<br />
-                    Salem – 636001.
+                    KAIRA Campus<br />
+                    PO BOX 19720<br />
+                    Durham<br />
+                    North Carolina
                 </p>
             </div>
 
             <div className="col-lg-3">
-                <h5>CITY CLINIC :</h5>
+                <h5></h5>
                 <p>
-                    XXX College of Technology Campus,<br />
-                    Salem – 636001.
+                    KAIRA Campus<br />
+                    North Carolina
                 </p>
             </div>
         </div>

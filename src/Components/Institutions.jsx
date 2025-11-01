@@ -42,7 +42,7 @@ const Institutions = () => {
   return (
     <section id="Clients-Section container-fluid container-md">
       <div className="clients-container">
-        <div className="h2 text-center mt-3 mb-1">XXX Institutions</div>
+        <div className="h2 text-center mt-3 mb-1">KAIRA Institutions</div>
         <hr
           className="mx-auto"
           style={{

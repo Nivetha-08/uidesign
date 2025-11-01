@@ -3,7 +3,7 @@ import React from 'react'
 const Association = () => {
   return (
     <>
-        <div className="h1 text-center mt-3 mb-1">XXX Groups Association with Eminent Personalities...</div>
+        <div className="h1 text-center mt-3 mb-1">KAIRA Groups Association with Eminent Personalities...</div>
         <hr
           className="mx-auto"
           style={{
