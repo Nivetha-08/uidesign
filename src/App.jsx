@@ -35,7 +35,7 @@ const App = () => {
         <Counselling />
         <SectionNavigator fn={activeHandler} act={active} />
         {active === 'highlights' && <Highlights />}
-        {active === 'achieve' && <Achievements />}
+        {/* {active === 'achieve' && <Achievements />} */}
         {active === 'vip' && <Vip />}
         {active === 'sona' && <Cards />}
         {active === 'news' && <News_and_Events />}

@@ -11,7 +11,7 @@ const SectionNavigator = ({fn, act}) => {
                 <button style={ act === 'vip' ? {color:"white", backgroundColor:"#1c3556"} : {color:"inherit", backgroundColor:"inherit"} } onClick={()=> fn('vip')}>VIP Message</button>
                 <button style={ act === 'news' ? {color:"white", backgroundColor:"#1c3556"} : {color:"inherit", backgroundColor:"inherit"} } onClick={()=> fn('news')}>News And Events</button>
                 <button style={ act === 'sona' ? {color:"white", backgroundColor:"#1c3556"} : {color:"inherit", backgroundColor:"inherit"} } onClick={()=> fn('sona')}>Benefits</button>
-                <button style={ act === 'achieve' ? {color:"white", backgroundColor:"#1c3556"} : {color:"inherit", backgroundColor:"inherit"} } onClick={()=> fn('achieve')}>Achievements</button>
+                {/* <button style={ act === 'achieve' ? {color:"white", backgroundColor:"#1c3556"} : {color:"inherit", backgroundColor:"inherit"} } onClick={()=> fn('achieve')}>Achievements</button> */}
 
             </div>
         </div>
